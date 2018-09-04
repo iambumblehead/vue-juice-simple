@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+see it at: https://iambumblehead.github.io/vue-juice-simple/
+
+
 ## Build Setup
 
 ``` bash
